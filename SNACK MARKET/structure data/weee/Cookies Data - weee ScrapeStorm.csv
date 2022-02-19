@@ -1,30 +1,30 @@
-﻿Product_Name,Price,Unit_Info,Sold_Monthly,review,Orgin,Brand,Reviews,Platform,,
-"Kjeldsens Original Danish Butter Cookies, Assorted 908 g",15.49,Unclear,200+ Sold,-50,Denmark,Unclear,50,Weee,,
-Danisa Traditional Assorted Butter Cookies  16 oz,9.99,$0.62/oz,200+ Sold,-110,Indonesia,Unclear,110,Weee,,
-"Aji Jumping Sugar Macaron Biscuits, Matcha Flavor 133 g",3.39,Unclear,200+ Sold,-2,Mainland China,AJI,2,Weee,,
-Hello Kitty Assorted Cookie Tin  326 g,15.99,$0.04/g,50+ Sold,-19,Japan,Unclear,19,Weee,,
-Meixin Mille-Feuille Gift Set 178 g,24.99,$0.14/g,100+ Sold,-4,Hong Kong,Unclear,4,Weee,,
-"MX Fine Goods ""Jiu Jiu Choy"" Pastries Gift Box 90 g",23.99,$0.26/g,Unclear,0,Hong Kong,Unclear,0,Weee,,
-Brown&Friends Biscuit Gift Box 400 g,34.99,$0.08/g,Unclear,0,Taiwan,Unclear,0,Weee,,
-DingDongXiong Fresh Milk Cookie  800 g,13.49,Unclear,Unclear,-6,Mainland China,Unclear,6,Weee,,
-Top Savor Nuts and Biscuits Gift Box 608 g,29.99,$0.04/g,Unclear,0,Mainland China,Top Savor ,0,Weee,,
-Top Savor  Assorted Cookies Gift Set  738 g,29.99,$0.04/g,Unclear,0,Mainland China,Top Savor ,0,Weee,,
-Top Savor Japanese Style Nagoya  Biscuits Gift Box 738 g,29.99,$0.04/g,Unclear,0,Mainland China,Top Savor ,0,Weee,,
-Top Savor Hokkaido Assorted Gift Box 608 g,29.99,$0.04/g,Unclear,0,Mainland China,Top Savor ,0,Weee,,
-Handmade Pancakes Gift Box 570 g,14.99,Unclear,1 Left,-11,Taiwan,Unclear,11,Weee,,
-DXC Beijing-Style Cakes 731 g,24.99,$0.03/g,50+ Sold,-1,Mainland China,Unclear,1,Weee,,
-DXC New Year's Pastries Gift Box 600 g,14.99,Unclear,Unclear,0,Mainland China,Unclear,0,Weee,,
-"MX Fine Goods ""Fat Choy"" Pastries Gift Box 134 g",26.49,$0.19/g,Unclear,-2,Hong Kong,Unclear,2,Weee,,
-MX Crunch Cookies 32pcs 200 g,27.90,$0.13/g,Unclear,0,Hong Kong,Unclear,0,Weee,,
-MX Hearty Butter Pastries Gift Set 22pcs 206 g,31.99,$0.15/g,50+ Sold,-3,Hong Kong,Unclear,3,Weee,,
-Kee Wah Dreamy Garden Box  132 g,11.79,$0.08/g,Unclear,-3,Mainland China,Unclear,3,Weee,,
-DXC Cashew Crisp Cake  600 g,18.99,$0.03/g,50+ Sold,0,Mainland China,Unclear,0,Weee,,
-DXC Nuts Crisp Cake  880 g,22.99,Unclear,50+ Sold,-2,Mainland China,Unclear,2,Weee,,
-Danish Style Cookies 450 g,20.89,$0.04/g,Unclear,0,Taiwan,Unclear,0,Weee,,
-Want Want Classic Cookies 509 g,22.90,$0.04/g,Unclear,0,Mainland China,WANT WANT,0,Weee,,
-Shengxiangzhen Classic Chocos Trio Gift Box 433 g,19.19,$0.04/g,Unclear,0,Taiwan,WANT WANT,0,Weee,,
-Kee Wah Chinese New Year Assorted Snacks Gift Set 1 box,48.49,$48.49/box,50+ Sold,0,Hong Kong,Unclear,0,Weee,,
-"Jenny Bakery Butter Cookies, Assorted Flavors 320 g",27.19,$0.08/g,100+ Sold,-190,Hong Kong,Unclear,190,Weee,,
-Kuo Yuan Ye Taiwan Bubble Milk Tea Cookies 1 each,16.99,$16.99/each,Unclear,-31,Taiwan,Unclear,31,Weee,,
-ChiaTe Green Onion Nougat Crackers 270 g,28.99,$0.10/g,100+ Sold,-77,Taiwan,Unclear,77,Weee,,
-"Ming Wu Walnut Crisp, Egg Flavor 520 g",6.19,Unclear,Unclear,-3,Mainland China,Unclear,3,Weee,,
+﻿Product_Name,Price,Sold_Monthly,Orgin,Brand,Reviews,Platform,revenus,Type
+"Kjeldsens Original Danish Butter Cookies, Assorted 908 g",15.49,200+ Sold,Denmark,Unclear,50,Weee,3098,Cookies
+Danisa Traditional Assorted Butter Cookies  16 oz,9.99,200+ Sold,Indonesia,Unclear,110,Weee,1998,Cookies
+"Aji Jumping Sugar Macaron Biscuits, Matcha Flavor 133 g",3.39,200+ Sold,Mainland China,AJI,2,Weee,678,Cookies
+Hello Kitty Assorted Cookie Tin  326 g,15.99,50+ Sold,Japan,Unclear,19,Weee,799.5,Cookies
+Meixin Mille-Feuille Gift Set 178 g,24.99,100+ Sold,Hong Kong,Unclear,4,Weee,2499,Cookies
+"MX Fine Goods ""Jiu Jiu Choy"" Pastries Gift Box 90 g",23.99,Unclear,Hong Kong,Unclear,0,Weee,2998.75,Cookies
+Brown&Friends Biscuit Gift Box 400 g,34.99,Unclear,Taiwan,Unclear,0,Weee,4373.75,Cookies
+DingDongXiong Fresh Milk Cookie  800 g,13.49,Unclear,Mainland China,Unclear,6,Weee,1686.25,Cookies
+Top Savor Nuts and Biscuits Gift Box 608 g,29.99,Unclear,Mainland China,Top Savor ,0,Weee,3748.75,Cookies
+Top Savor  Assorted Cookies Gift Set  738 g,29.99,Unclear,Mainland China,Top Savor ,0,Weee,3748.75,Cookies
+Top Savor Japanese Style Nagoya  Biscuits Gift Box 738 g,29.99,Unclear,Mainland China,Top Savor ,0,Weee,3748.75,Cookies
+Top Savor Hokkaido Assorted Gift Box 608 g,29.99,Unclear,Mainland China,Top Savor ,0,Weee,3748.75,Cookies
+Handmade Pancakes Gift Box 570 g,14.99,1 Left,Taiwan,Unclear,11,Weee,14.99,Cookies
+DXC Beijing-Style Cakes 731 g,24.99,50+ Sold,Mainland China,Unclear,1,Weee,1249.5,Cookies
+DXC New Year's Pastries Gift Box 600 g,14.99,Unclear,Mainland China,Unclear,0,Weee,1873.75,Cookies
+"MX Fine Goods ""Fat Choy"" Pastries Gift Box 134 g",26.49,Unclear,Hong Kong,Unclear,2,Weee,3311.25,Cookies
+MX Crunch Cookies 32pcs 200 g,27.9,Unclear,Hong Kong,Unclear,0,Weee,3487.5,Cookies
+MX Hearty Butter Pastries Gift Set 22pcs 206 g,31.99,50+ Sold,Hong Kong,Unclear,3,Weee,1599.5,Cookies
+Kee Wah Dreamy Garden Box  132 g,11.79,Unclear,Mainland China,Unclear,3,Weee,1473.75,Cookies
+DXC Cashew Crisp Cake  600 g,18.99,50+ Sold,Mainland China,Unclear,0,Weee,949.5,Cookies
+DXC Nuts Crisp Cake  880 g,22.99,50+ Sold,Mainland China,Unclear,2,Weee,1149.5,Cookies
+Danish Style Cookies 450 g,20.89,Unclear,Taiwan,Unclear,0,Weee,2611.25,Cookies
+Want Want Classic Cookies 509 g,22.9,Unclear,Mainland China,WANT WANT,0,Weee,2862.5,Cookies
+Shengxiangzhen Classic Chocos Trio Gift Box 433 g,19.19,Unclear,Taiwan,WANT WANT,0,Weee,2398.75,Cookies
+Kee Wah Chinese New Year Assorted Snacks Gift Set 1 box,48.49,50+ Sold,Hong Kong,Unclear,0,Weee,2424.5,Cookies
+"Jenny Bakery Butter Cookies, Assorted Flavors 320 g",27.19,100+ Sold,Hong Kong,Unclear,190,Weee,2719,Cookies
+Kuo Yuan Ye Taiwan Bubble Milk Tea Cookies 1 each,16.99,Unclear,Taiwan,Unclear,31,Weee,2123.75,Cookies
+ChiaTe Green Onion Nougat Crackers 270 g,28.99,100+ Sold,Taiwan,Unclear,77,Weee,2899,Cookies
+"Ming Wu Walnut Crisp, Egg Flavor 520 g",6.19,Unclear,Mainland China,Unclear,3,Weee,773.75,Cookies
