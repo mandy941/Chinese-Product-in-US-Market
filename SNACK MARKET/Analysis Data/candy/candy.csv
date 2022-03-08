@@ -1,0 +1,52 @@
+Row Labels,Sum of Weekly_Revenue,Count of Product_Name,
+America,4020,1,
+Australia,17975,3,
+Belgium,85377,4,
+Canada,67664,27,
+England,2236,1,
+Estonia,1798,1,
+Finland,450,1,
+German,70690,5,
+Germany,397,2,
+Hong Kong,16649,14,
+Indonesia,33184,30,
+Israel,149,1,
+Japan,2166753,876,
+Korea,50226,54,
+Mainland China,1514929,339,
+Malaysia,62152,35,
+Mexico,1930,15,
+Philippines,1254,12,
+South Korea,1750,6,
+Taiwan,404110,128,
+Thailand,389,1,
+Unclear,222643,30,
+United States,149138,71,
+Vietnam,1096,4,
+Grand Total,4876959,1661,
+,,,
+,,,
+America,4020,1,4020
+Australia,17975,3,5991.666667
+Belgium,85377,4,21344.25
+Canada,67664,27,2506.074074
+England,2236,1,2236
+Estonia,1798,1,1798
+Finland,450,1,450
+German,70690,5,14138
+Germany,397,2,198.5
+Hong Kong,16649,14,1189.214286
+Indonesia,33184,30,1106.133333
+Israel,149,1,149
+Japan,2166753,876,2473.462329
+Korea,50226,54,930.1111111
+Mainland China,1514929,339,4468.817109
+Malaysia,62152,35,1775.771429
+Mexico,1930,15,128.6666667
+Philippines,1254,12,104.5
+South Korea,1750,6,291.6666667
+Taiwan,404110,128,3157.109375
+Thailand,389,1,389
+Unclear,222643,30,7421.433333
+United States,149138,71,2100.535211
+Vietnam,1096,4,274
