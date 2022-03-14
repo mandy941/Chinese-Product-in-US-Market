@@ -1,0 +1,614 @@
+Product_Name,Brand,Price,Reviews,Origin,Rate,Platform,Category,Sold_Weekly,Sold_Monthly,Weekly_Revenue
+Roasted Seaweed with Green Tea 12 Bags,nonghyup,5.69,51,Korea,4.7,Yami,Seaweed,400,1600,2276
+Tempura Seaweed Musroom And Black Pepper,tao kae noi,1.99,0,Unclear,0,Yami,Seaweed,400,1600,796
+Dried Mustard Seaweed 100g,kwangcheonkim,3.49,0,Unclear,0,Yami,Seaweed,400,1600,1396
+"Roasted & Seasoned Seaweed 4g*12packs, 48g",shirakiku,4.99,57,United States,4.6,Yami,Seaweed,400,1600,1996
+Roasted  Seasoned Seaweed 12packs 48g,kc,5.69,12,Korea,4.2,Yami,Seaweed,400,1600,2276
+WEL PAC FUERU WAKAME Dried Seaweed 56.7g,wel.pac,2.99,13,Unclear,4.8,Yami,Seaweed,400,1600,1196
+Roasted Green Tea Seaweed 50g,haitai,2.89,57,Korea,4.8,Yami,Seaweed,400,1600,1156
+Buldak Flavor Seaweed 5g*3,kwangcheonkim,2.29,0,Unclear,0,Yami,Seaweed,400,1600,916
+WANG Roasted Seaweed Sushi Nori 72g,wang food,8.49,10,Korea,5,Yami,Seaweed,400,1600,3396
+Seaweed Crisps Original Flavor 30g,master hee's,2.69,11,Unclear,4.6,Yami,Seaweed,400,1600,1076
+Roasted & Seasoned Organic Seaweed 4g*9,kwangcheonkim,7.99,0,Unclear,0,Yami,Seaweed,400,1600,3196
+Big Sheet Seaweed Spicy Flavor 38g,tao kae noi,3.89,13,Unclear,4.8,Yami,Seaweed,400,1600,1556
+Yakinori Hanedashi Roasted Seaweed 10pcs,takaokaya,2.79,5,Unclear,5,Yami,Seaweed,400,1600,1116
+YAKI NORI Roasted Seaweed 50 Sheets,shirakiku,11.99,5,Unclear,4.6,Yami,Seaweed,400,1600,4796
+Dried Seaweed Ties 50g,jinhailin,1.99,11,Unclear,4.5,Yami,Seaweed,400,1600,796
+Organic Seaweed USDA Organic,little jasmine,12.99,1,Unclear,2,Yami,Seaweed,400,1600,5196
+Seaweed Chip Original Flavor 40g,che il jedang,3.49,8,Unclear,5,Yami,Seaweed,200,800,698
+TangChen Dried Seaweed 60g,ocm,4.99,22,Unclear,4.7,Yami,Seaweed,400,1600,1996
+Furikake Seas Rst Seaweed Flakes Spicy 30g,shirakiku,2.19,0,Unclear,0,Yami,Seaweed,400,1600,876
+Seaweed Crisps Wasabi Flavor 30g,master hee's,2.69,13,Unclear,5,Yami,Seaweed,400,1600,1076
+CJ BIBIGO Seaweed Crisps Hot Spicy 20g,che il jedang,2.29,9,Korea,4,Yami,Seaweed,25,100,57
+Seaweed Crisps Spicy Flavor 30g,master hee's,2.69,13,Unclear,4.6,Yami,Seaweed,400,1600,1076
+Roasted Seaweed Sushi Nori ( 10 Sheets ) 1oz,mifeng,2.49,0,Unclear,0,Yami,Seaweed,400,1600,996
+Seaweed Crisps Cheese Flavor 30g,master hee's,2.69,19,Unclear,4.6,Yami,Seaweed,400,1600,1076
+CJ BIBIGO Seaweed Crisps BBQ 20g,che il jedang,2.29,20,Korea,4,Yami,Seaweed,400,1600,916
+CJ BIBIGO Seaweed Crisps Original 20g,che il jedang,2.29,10,Korea,4.2,Yami,Seaweed,25,100,57
+Seasoned Seaweed 22.7g,shirakiku,4.59,4,Unclear,4.2,Yami,Seaweed,400,1600,1836
+Furikake Seas Rst Seaweed Flakes Seafood 30g,shirakiku,2.19,0,Unclear,0,Yami,Seaweed,400,1600,876
+TangChen Dried Seaweed 80g,ocm,5.99,27,Unclear,5,Yami,Seaweed,400,1600,2396
+Organic Roasted & Seaweed 4gx10 pack,shirakiku,4.99,29,Japan,4.7,Yami,Seaweed,400,1600,1996
+WANGWANG Seaweed with wave flavor Original taste 10g,want want,3.49,1,Unclear,5,Yami,Seaweed,400,1600,1396
+Seaweed Pork Floss Egg Roll 100g*1,be & cheery,11.9,0,Unclear,0,Yami,Seaweed,25,100,298
+Miso Soup With Chunky Tofu & Seaweed 35.7g,marukome,3.69,9,Japan,4.9,Yami,Seaweed,400,1600,1476
+Corn Roll-Japanese Style Grilled Seaweed  100g,pei tien,2.39,6,Taiwan,4.7,Yami,Seaweed,400,1600,956
+GGE Seaweed Cracker 80g,weilih,1.89,192,Taiwan,4.6,Yami,Seaweed,400,1600,756
+JagaRico Potato Stick Umami Seaweed Flavor 52g,calbee,2.09,140,Unclear,4.7,Yami,Seaweed,400,1600,836
+CHIO HEONG YUEN Vegetarian Phoenix Egg Roll With Seaweed 150g,choi heong yuen bakery,8.99,106,Macao,4.7,Yami,Seaweed,400,1600,3596
+GINBIS ANIMAL BISCUITS SEAWEED 50g,ginbis,1.69,0,Unclear,0,Yami,Seaweed,400,1600,676
+Small Fried Dough Twist Salty Seaweed Flavor 250g,zhongwang,3.29,0,Unclear,0,Yami,Seaweed,400,1600,1316
+Japanese Traditional Seaweed Rice Cracker 85g,shirakiku,2.99,53,Japan,3.9,Yami,Seaweed,400,1600,1196
+Potato Chips Kyushu Seaweed Flavor 43g,lay's,1.99,8,Unclear,4.8,Yami,Seaweed,400,1600,796
+"12 Grain Crispi Roll, Seaweed 180g",pei tien,2.49,0,Unclear,0,Yami,Seaweed,400,1600,996
+Seaweed Flour Cake 360g,hsintungyang,3.99,15,Taiwan,3.9,Yami,Seaweed,200,800,798
+Csssava Chips Seaweed Flavor 200g,kusuka,2.69,5,Unclear,4.6,Yami,Seaweed,400,1600,1076
+Seaweed Egg Roll 80g,kaluokaman,4.99,0,Unclear,0,Yami,Seaweed,25,100,125
+Rice Seasoning Roasted Black Seaweed 55g,mishima,5.25,66,Unclear,4.8,Yami,Seaweed,400,1600,2100
+Rice Seasoning Sesame and Seaweed Furikake 55g,mishima,5.25,14,Unclear,4.9,Yami,Seaweed,400,1600,2100
+Potato Chips Seaweed Flavor 100g,zidi potato,2.99,9,Unclear,4.9,Yami,Seaweed,400,1600,1196
+Salt Seaweed Potato Sticks 40g,koikeya,1.69,8,Unclear,4.4,Yami,Seaweed,400,1600,676
+?€?Frozen?€?Cooked Cod&Seaweed Dumplings 345g,mr. lee,5.99,1,Unclear,5,Yami,Seaweed,400,1600,2396
+Rice Seasoning Wakame Seaweed Furikake 50g,mishima,4.99,2,Japan,5,Yami,Seaweed,400,1600,1996
+Konbu Seaweed Soup Stock 35g 7 Packets No Preservatives Added,riken,3.5,8,Unclear,4.6,Yami,Seaweed,400,1600,1400
+Agar Seaweed Gelatine Square White 15g,hime,4.29,0,Unclear,0,Yami,Seaweed,400,1600,1716
+Potato Chips Salt and Seaweed Mega Size 200g,calbee,4.99,22,Unclear,5,Yami,Seaweed,200,800,998
+Koikoya Potato Chips Hot Chili Seaweed Flavor,koikeya,5.29,3,Unclear,5,Yami,Seaweed,400,1600,2116
+Salty Seaweed Chips 54g,koikeya,2.49,8,Japan,4,Yami,Seaweed,400,1600,996
+SHISYU-ICHI Instant Miso Soup Seaweed Flavor 8bags,shinsyu-ichi,4.29,18,Japan,4.8,Yami,Seaweed,400,1600,1716
+Sand Cookies Seaweed Flavor 98g,koobi,3.49,1,Unclear,4,Yami,Seaweed,400,1600,1396
+Shrimp Cracker Seaweed Flavor 80g,chinchin,1.99,1,Unclear,4,Yami,Seaweed,200,800,398
+Rongnuo Sea Food Spicy & Hot Scallop,rongnuohaishi,4.99,13,Unclear,4.4,Yami,Seaweed,400,1600,1996
+Fishsnack Original Flavor Think 56g,north sea,2.69,87,Taiwan,4.4,Yami,Seaweed,400,1600,1076
+Fried Dace with Olive Oil 100g,eagle coin,1.99,80,Unclear,4.8,Yami,Seaweed,400,1600,796
+Prepared Shredded Squid Sakiika Plain 56.7g,shirakiku,3.59,102,Taiwan,4.5,Yami,Seaweed,400,1600,1436
+Spicy Scallop 100g,rongnuohaishi,6.99,2,Unclear,4.5,Yami,Seaweed,400,1600,2796
+Hand Shredded Crab Sticks Spicy Flavor 102g,shi zai guo yin,3.29,4,Unclear,4.8,Yami,Seaweed,400,1600,1316
+Fishsnack BBQ Flavor Think 56g,north sea,2.69,11,Mainland China,4.8,Yami,Seaweed,400,1600,1076
+WANG Fish Cake/Sausage Crab Flavor 10PCS,wang food,5.99,194,Korea,4.1,Yami,Seaweed,400,1600,2396
+TONGRONG Spicy Eel Can,tongyeng,2.39,104,Unclear,4.6,Yami,Seaweed,400,1600,956
+HSINTUNGYANG Roasted Eel With Soy Bean 100g,hsintungyang,2.89,0,Unclear,0,Yami,Seaweed,25,100,72
+Abalone With Assorted Mushroom 780G,hao de zhuang,39.99,1,Unclear,5,Yami,Seaweed,25,100,1000
+Ground Fried Salmon Floss 200g,weiyi,8.99,1,Unclear,4,Yami,Seaweed,400,1600,3596
+Roasted & Seasoned Laver Hot & Spicy 60g,badaone,3.99,0,Unclear,0,Yami,Seaweed,300,1200,1197
+Prepared Shredded Squid Sakiika Plain 226.8g,shirakiku,12.99,20,Japan,4.5,Yami,Seaweed,400,1600,5196
+Black Pepper Salmon Bpss 105g,irvins,9.99,0,Unclear,0,Yami,Seaweed,25,100,250
+Z Roll Potato Stick Original Flavor 72g,tao kae noi,3.49,34,Unclear,4.8,Yami,Seaweed,400,1600,1396
+Roasted Laver 130g,kwangcheonkim,6.89,0,Unclear,0,Yami,Seaweed,400,1600,2756
+Peru Squid Honey Lemon Flavor 80g,jinzai,5.99,0,Unclear,0,Yami,Seaweed,25,100,150
+Shredded Squid Spicy 56.7g,shirakiku,3.59,48,Japan,4.3,Yami,Seaweed,400,1600,1436
+Fragrance Crispy Fish Floss 6.35oz,fragrance,2.99,0,Unclear,0,Yami,Seaweed,400,1600,1196
+Sandwich Nori Mix 30g,hanweiduo,4.49,1,Unclear,5,Yami,Seaweed,400,1600,1796
+Prepared Shredded Squid Sakiika Smoked 56.7g,shirakiku,3.49,25,Japan,3.8,Yami,Seaweed,400,1600,1396
+Peru Squid Original Flavor 80g,jinzai,5.99,0,Unclear,0,Yami,Seaweed,25,100,150
+Kabayaki Herring,tahara,3.49,1,Unclear,5,Yami,Seaweed,400,1600,1396
+Japanese Miso Sardine Fish Can 100g,nissui,2.29,105,Japan,4.6,Yami,Seaweed,400,1600,916
+Shredded Smoked Squid Hot Smoked 57g,shirakiku,3.49,4,Taiwan,3.2,Yami,Seaweed,400,1600,1396
+Peru Squid Black Pepper Flavor 80g,jinzai,5.99,1,Unclear,5,Yami,Seaweed,25,100,150
+Roasted Laver Sprinkle Shrimp 20g,master hee's,1.99,3,Unclear,5,Yami,Seaweed,400,1600,796
+Roasted Laver Sprinkle Original 20g,master hee's,1.99,5,Unclear,5,Yami,Seaweed,400,1600,796
+Sailfish Floss 305g,hsintungyang,11.99,23,Taiwan,4.6,Yami,Seaweed,400,1600,4796
+Ground Fried Marlin Floss 200g,weiyi,8.99,0,Unclear,0,Yami,Seaweed,400,1600,3596
+Fried Dace 6.5 oz,yujiaxiang,3.69,0,Unclear,0,Yami,Seaweed,400,1600,1476
+Roasted and Seasoned Green Tea Laver,assi brand,5.99,0,Unclear,0,Yami,Seaweed,300,1200,1797
+Dried Squid Super Spicy Flavor 19g,bento,1.99,26,Unclear,4.6,Yami,Seaweed,200,800,398
+Ready-to-eat Mackerel Soy Sauce Flavor 150g,ssk sales,3.59,2,Japan,4.5,Yami,Seaweed,400,1600,1436
+Prepared Shedded Squid 85g,jane jane,4.89,13,Unclear,4.6,Yami,Seaweed,200,800,978
+Shredded Smoked Squid Smoked Spicy Flavor 170g,shirakiku,12.69,6,Japan,3.8,Yami,Seaweed,400,1600,5076
+Dried Milkfish Seasoned Slices 150g,donggang,10.99,0,Unclear,0,Yami,Seaweed,400,1600,4396
+TONGRONG Rosast Eel Can 100g,tongyeng,2.19,23,Unclear,4.7,Yami,Seaweed,400,1600,876
+Home Fish Sausage Vegetable 300g,jinju,2.59,4,Unclear,3.5,Yami,Seaweed,25,100,65
+Sushi Nori 25g,hanweiduo,4.59,2,Unclear,5,Yami,Seaweed,400,1600,1836
+Roasted Laver Traditional 4g*20,master hee's,11.99,4,Unclear,4,Yami,Seaweed,400,1600,4796
+Fermented Soya Bean Croaker 185g,rofeel,3.89,1,Unclear,5,Yami,Seaweed,400,1600,1556
+Shredded Squid Smoked 170g,shirakiku,12.99,17,Taiwan,4.3,Yami,Seaweed,400,1600,5196
+Dried Squid 57g,takuma,5.99,0,Unclear,0,Yami,Seaweed,400,1600,2396
+Dried Fish Floss 180g,hsintungyang,7.69,34,Taiwan,4.7,Yami,Seaweed,400,1600,3076
+Ready-to-eat Mackerel Miso Flavor 150g,ssk sales,3.59,4,Japan,4.5,Yami,Seaweed,400,1600,1436
+Ground Fried Pollock Fish Floss 150g,weiyi,9.99,0,Unclear,0,Yami,Seaweed,400,1600,3996
+Salmon Floss 180g,hsintungyang,7.59,19,Taiwan,4.4,Yami,Seaweed,200,800,1518
+Delicious Braised Spicy Squid 180g,de delicious,15.99,0,Unclear,0,Yami,Seaweed,400,1600,6396
+Miyako Ajitsuke Bottle Seasoned and Toasted Sea Vegetables 18.4g,takaokaya,3.99,2,Unclear,5,Yami,Seaweed,400,1600,1596
+TENGXIN FOODS Srab Sticker Spicy Flavor 300g,haixin,6.99,79,Mainland China,4.2,Yami,Seaweed,400,1600,2796
+Roasted Laver Traditional 4g*3,master hee's,2.09,8,Unclear,4.8,Yami,Seaweed,400,1600,836
+WANG Fish Cake Cheese Flavor 10pc 340g,wang food,5.69,50,Korea,4,Yami,Seaweed,400,1600,2276
+Roasted Laver Sprinkle Shrimp 20g,master hee's,1.99,1,Unclear,4,Yami,Seaweed,400,1600,796
+Roasted Laver Spicy 5g*20,master hee's,11.99,5,Unclear,4.6,Yami,Seaweed,400,1600,4796
+Littfe Yellow Croaker Fermented Soya Bean 106g,rofeel,3.69,1,Unclear,5,Yami,Seaweed,400,1600,1476
+Dried Sakura Shrimp Cracker with Almond 120g,donggang,17.99,1,Unclear,5,Yami,Seaweed,25,100,450
+Master Hee's Omega Plus Traditional Roasted Laver 9g*8 bag,master hee's,11.99,4,Unclear,5,Yami,Seaweed,400,1600,4796
+Nitsukegai 270g,marumatsu,14.99,0,Unclear,0,Yami,Seaweed,400,1600,5996
+Sushi Nori Premium Roasted Sea Vegetables 21g,takaokaya,4.99,0,Unclear,0,Yami,Seaweed,400,1600,1996
+Shredded Smoked Squid Spicy Flavor 198g,shirakiku,12.99,45,Japan,4,Yami,Seaweed,400,1600,5196
+YES SIR Crispy Dried Shrimp Spicy Flavor 25g,xiaxiansheng,4.39,60,Taiwan,4.5,Yami,Seaweed,400,1600,1756
+Roasted Laver Wasabi 4.5g*20,master hee's,11.99,2,Unclear,0,Yami,Seaweed,400,1600,4796
+Sushi Nori 50 Sheets,shirakiku,14.99,7,Unclear,5,Yami,Seaweed,400,1600,5996
+Dried Shredded Cod with Wasabi 170g,donggang,10.99,1,Unclear,5,Yami,Seaweed,400,1600,4396
+Master Hee's Omega Plus Roasted Laver (Wasabi Flavor) 10g*8 bag,master hee's,11.99,1,Unclear,5,Yami,Seaweed,400,1600,4796
+Seasoned Whelk 90g,hotei,6.39,9,Japan,4,Yami,Seaweed,200,800,1278
+Dried Sakura Diced Shrimp Snacks 150g,donggang,10.99,0,Unclear,0,Yami,Seaweed,400,1600,4396
+Dried Seasoned Fish Cracker with Sesame 160g,donggang,10.99,0,Unclear,0,Yami,Seaweed,400,1600,4396
+Master Hee's Omega Plus Spicy Roasted Laver 11g*8 bag,master hee's,11.99,7,Unclear,5,Yami,Seaweed,400,1600,4796
+Mackerel 150g,ssk sales,3.69,1,Japan,3,Yami,Seaweed,400,1600,1476
+seaweed moisturizing mask pack moisturizing and refreshing summer mask skin care products,bisutang,8.8,0,Unclear,0,Yami,Seaweed,200,800,1760
+Dried Black Sea Moss Black Seaweed Fat Choy gift box 3oz,president brand,35.99,0,Unclear,0,Yami,Seaweed,400,1600,14396
+Dried Black Sea Moss Black Seaweed Fat Choy 28g,president brand,8.99,0,Unclear,0,Yami,Seaweed,400,1600,3596
+Twisties Spicy Seaweed Splash 60g,mondelez,4.99,0,Malaysia,0,Yami,Seaweed,400,1600,1996
+South American Sea cucumber seaweed  Gift Box,nestlady,99,0,United States,0,Yami,Seaweed,400,1600,39600
+Crispy Biscuits Seaweed Flavor 300g,bestore,10.99,3,Unclear,3,Yami,Seaweed,25,100,275
+Seaweed Chips 4pc,calbee,15.99,2,Japan,5,Yami,Seaweed,25,100,400
+Taste of Mainland China Cuttlefish Cake 454g,taste of mainland china,9.99,0,Unclear,0,Yami,Seaweed,400,1600,3996
+Taste of Mainland China Seafood Combo 340g,taste of mainland china,10.99,0,Unclear,0,Yami,Seaweed,400,1600,4396
+Taste of Mainland China Fish Sausage with Cheese 168g,taste of mainland china,7.49,0,Unclear,0,Yami,Seaweed,400,1600,2996
+Xlseafood Japan Red ganoderma 2 pc pack,xlseafood,11.99,0,Japan,0,Yami,Seaweed,400,1600,4796
+Taste of Mainland China Frozen Bean Curd 385g,taste of mainland china,3.99,0,Unclear,0,Yami,Seaweed,400,1600,1596
+Crawfish Spicy Fish-shaped Frozen Surimi Cake 150g,taste of mainland china,7.59,0,Unclear,0,Yami,Seaweed,400,1600,3036
+Xlseafood dry vileplume 0.5lb,xlseafood,11.99,0,Mainland China,0,Yami,Seaweed,400,1600,4796
+Taste of Mainland China Cod-flavored Frozen Surimi Cake 160g,taste of mainland china,6.59,0,Unclear,0,Yami,Seaweed,400,1600,2636
+Baby Squid Seafood Instant Spicy Flavor 160g,bestore,11.99,1,Unclear,5,Yami,Seaweed,25,100,300
+Taste of Mainland China Fish Sausage with Fish Roe & Cuttlefish 168g,taste of mainland china,7.49,0,Unclear,0,Yami,Seaweed,400,1600,2996
+Little Fish Spicy Taste 120g,bestore,6.99,0,Unclear,0,Yami,Seaweed,200,800,1398
+[Mainland China Direct Mail] Baicao Flavour-Spicy Aberdeen Xiaoyu Dried Seafood Snacks 105g,be & cheery,11.9,0,Unclear,0,Yami,Seaweed,25,100,298
+Fish Ball Spicy Flavor 100g,bestore,6.99,0,Unclear,0,Yami,Seaweed,200,800,1398
+Hot plate squid strips 80g*1,be & cheery,11.9,0,Unclear,0,Yami,Seaweed,25,100,298
+President Broth Instant Abalone Canned K6H,xlseafood,54.99,2,United States,5,Yami,Seaweed,400,1600,21996
+Grilled Squid Silk Spicy Flavor 60g,bestore,6.99,1,Unclear,5,Yami,Seaweed,200,800,1398
+Frozen Squid Tentacles 285g,taste of mainland china,4.99,0,Unclear,0,Yami,Seaweed,400,1600,1996
+Frozen Kung Fu Tilapia Fillets 250g,taste of mainland china,9.99,2,Unclear,5,Yami,Seaweed,400,1600,3996
+LYFEN Japanese Seed25 Preserved Plum Candied Fruit 118g,yifen,7.99,0,Unclear,0,Yami,Seaweed,400,1600,3196
+Captain Jack Crawfish Spicy 908g,captain jack,12.99,2,Unclear,3,Yami,Seaweed,100,400,1299
+LIANG PIN PU ZI sesame seeds With Filling Sea Sedge 35g,bestore,9.99,1,Unclear,5,Yami,Seaweed,200,800,1998
+Spicy Cajun Louisiana Wholeboiled Crawfish 907g,taste of mainland china,12.99,0,Unclear,0,Yami,Seaweed,400,1600,5196
+Garlic Louisiana Wholeboiled Crawfish 907g,taste of mainland china,12.99,0,Unclear,0,Yami,Seaweed,400,1600,5196
+Seafood Instant Jinpian Fish Spicy Flavor 80g,bestore,6.99,1,Unclear,5,Yami,Seaweed,200,800,1398
+Shrimp Fish Cake Spicy Flavor 92g,bestore,7.99,0,Unclear,0,Yami,Seaweed,200,800,1598
+LYFEN Fish Seed Egg 108g,yifen,6.99,1,Unclear,5,Yami,Seaweed,400,1600,2796
+Fortune Pack with Fish Roe 145g,taste of mainland china,6.99,0,Unclear,0,Yami,Seaweed,400,1600,2796
+Kung Fu Snakehead Fish fillet 250g,taste of mainland china,5.5,0,Unclear,0,Yami,Seaweed,400,1600,2200
+JACK& KING'S Spicy Frog Legs 400g,taste of mainland china,11.99,1,Unclear,5,Yami,Seaweed,400,1600,4796
+President Braised Instant Abalone Canned K5H,xlseafood,58.99,1,United States,4,Yami,Seaweed,400,1600,23596
+[Mainland China Direct Mail] BE&CHEERY-Shredded Crab Flavor Spicy Stick Crab Stick and Crab Meat Stick Seafood Snacks 120g,be & cheery,8.9,0,Unclear,0,Yami,Seaweed,200,800,1780
+Sun Dried Wild Caught Canada Newfoundland Orange-foot Sea Cucumber Gonad Flower AAA Grade  8oz 227g,xlseafood,39.99,0,Canada,0,Yami,Seaweed,400,1600,15996
+Frozen Squid Mix 285g,taste of mainland china,4.99,0,Unclear,0,Yami,Seaweed,400,1600,1996
+Squid Barbecue Flavor 90g,bestore,13.99,1,Unclear,3,Yami,Seaweed,25,100,350
+JACK& KING'S Frozen Garlic Abalone with Vermicelli 200g,taste of mainland china,12.99,0,Mainland China,0,Yami,Seaweed,400,1600,5196
+President Braised Instant Abalone Canned K10H,xlseafood,49.99,1,United States,5,Yami,Seaweed,400,1600,19996
+Scallop Spicy Taste 45g,bestore,12.99,3,Unclear,3.3,Yami,Seaweed,25,100,325
+Sesame Nori  35g,bestore,5.99,3,Unclear,5,Yami,Seaweed,200,800,1198
+JACK& KING'S Pickled Spicy Fish Head (BAG) 635g,taste of mainland china,14.9,12,Mainland China,4.8,Yami,Seaweed,400,1600,5960
+Barbecue Small Yellow Croaker 100g,bestore,7.99,1,Unclear,1,Yami,Seaweed,200,800,1598
+Crispy yellow croaker spicy flavor 100g*1,be & cheery,11.9,0,Unclear,0,Yami,Seaweed,25,100,298
+Japan Hokkaido Sun Dried AA Conpoy P400,xlseafood,49.99,1,Japan,5,Yami,Seaweed,400,1600,19996
+Deep Sea Fish Intestine 108g,bestore,6.99,0,Unclear,0,Yami,Seaweed,200,800,1398
+Taste of Mainland China Fishcurd Original 200g,taste of mainland china,9.99,0,Unclear,0,Yami,Seaweed,400,1600,3996
+Catfish Fillet with Pickled Mustard Green 350g,taste of mainland china,8.99,4,Unclear,3.8,Yami,Seaweed,400,1600,3596
+Tilapia Fillet Sliced  340g,taste of mainland china,9.99,0,Unclear,0,Yami,Seaweed,400,1600,3996
+Fish Stick Crab Flavor 90g,bestore,6.99,3,Unclear,5,Yami,Seaweed,200,800,1398
+BBQ Squid Cube(Skin on) 600g,taste of mainland china,7.99,0,Unclear,0,Yami,Seaweed,400,1600,3196
+Captain Jack Greenland Hailbut Steaks 8/11oz,captain jack,12.49,0,Unclear,0,Yami,Seaweed,25,100,312
+TOFU POCKET WITH SHRIMP 150g,taste of mainland china,6.99,0,Unclear,0,Yami,Seaweed,400,1600,2796
+Tomato Flavor Fishcurd 450g,taste of mainland china,9.99,1,Unclear,5,Yami,Seaweed,400,1600,3996
+Taste of Mainland China Fishcurd Original 200g,taste of mainland china,9.99,0,Unclear,0,Yami,Seaweed,400,1600,3996
+XLSEAFOOD Sun Dried South Africa Sea Conch meat AAAA Grade 227g,xlseafood,39.99,0,Unclear,0,Yami,Seaweed,400,1600,15996
+JACK& KING'S Tilapia Fillet with Pickled Veg & Chili 500g,taste of mainland china,10,1,Unclear,5,Yami,Seaweed,400,1600,4000
+JACK&KING Crawfish Garlic 908g,jack&king?€?s food,12.99,4,Mainland China,4,Yami,Seaweed,25,100,325
+[Mainland China Direct Mail] Baicao Flavor-Shredded Squid Strips Seafood Snacks 80g,be & cheery,11.9,0,Unclear,0,Yami,Seaweed,25,100,298
+JACK& KING'S Tilapia Fillets Sliced  340g,taste of mainland china,9.99,0,Mainland China,0,Yami,Seaweed,400,1600,3996
+Cod Intestines Thick and Cheese Flavored Cod Intestines 90g*1,be & cheery,12.9,0,Unclear,0,Yami,Seaweed,25,100,323
+Frozen Squid Cube (skin on) 285g,taste of mainland china,4.49,0,Unclear,0,Yami,Seaweed,400,1600,1796
+Captain Jack Frozen Ribbon Fish Roll 6/8pcs 250g,captain jack,9.99,0,Unclear,0,Yami,Seaweed,200,800,1998
+TOFU POCKT WITH LOBSTER 145g,taste of mainland china,6.99,0,Unclear,0,Yami,Seaweed,400,1600,2796
+JACK& KING'S Cooked Clam,taste of mainland china,5.99,1,Mainland China,5,Yami,Seaweed,400,1600,2396
+Frozen Cooked Abalone Meat 6pcs 100g,taste of mainland china,10.49,0,Unclear,0,Yami,Seaweed,400,1600,4196
+Spicy Hot Squid 400g,taste of mainland china,9.49,2,Unclear,5,Yami,Seaweed,400,1600,3796
+Pickled Fish Curd 450g,taste of mainland china,9.99,1,Unclear,5,Yami,Seaweed,400,1600,3996
+Taste of Mainland China Spicy Cooked Crawfish Tail 250g,taste of mainland china,12.99,0,Unclear,0,Yami,Seaweed,400,1600,5196
+Cooked Crawfish Tail With Spicy Sauce Bag  18.6oz,taste of mainland china,10.99,3,Unclear,5,Yami,Seaweed,400,1600,4396
+Captain Jack Greenland Halibut Head 500-700g,captain jack,11.99,0,Unclear,0,Yami,Seaweed,25,100,300
+XLSeafood Malaysia Nature Honey Rock Sugar 227g,xlseafood,29.99,0,Malaysia,0,Yami,Seaweed,400,1600,11996
+Spicy Louisiana Wholeboiled Crawfish 907g,taste of mainland china,12.99,1,Unclear,3,Yami,Seaweed,400,1600,5196
+Taste of Mainland China Spicy Cooked Clam,jack&king?€?s food,7.99,1,Unclear,0,Yami,Seaweed,25,100,200
+JACK& KING'S  Spicy crawfish tail Eight Boxes,jack&king?€?s food,95.99,0,Mainland China,0,Yami,Seaweed,400,1600,38396
+JACK& KING'S Garlic Cooked Crawfish Tail,jack&king?€?s food,11.99,2,Mainland China,4,Yami,Seaweed,25,100,300
+Fresh Pepper Squid 250g,taste of mainland china,8.99,0,Unclear,0,Yami,Seaweed,400,1600,3596
+BBQ Squid Wing Carving 500g,taste of mainland china,13.49,0,Unclear,0,Yami,Seaweed,400,1600,5396
+JACK& KING'S Spicy Squid 280g,taste of mainland china,9.99,1,Mainland China,4,Yami,Seaweed,400,1600,3996
+Tempura Seaweed BBQ Flavor 40g,four seas,2.89,32,Mainland China,4.4,Yami,Seaweed,200,800,578
+YES SIR Crispy dried Crab-Seaweed wasabi 25g,xiaxiansheng,3.99,22,Unclear,4.7,Yami,Seaweed,400,1600,1596
+Roasted Seaweed Snack Green Tea Flavor 12pc 60g,jayone,5.99,12,Unclear,4.8,Yami,Seaweed,400,1600,2396
+Seaweed Tempura Snack Sea Salt Flavor 30g,sea's gift,3.99,1,Korea,5,Yami,Seaweed,400,1600,1596
+Tempura Seaweed Tomato Flavor 40g,four seas,2.89,35,Mainland China,3.9,Yami,Seaweed,200,800,578
+Hidaka Dried Seaweed(Mehijiki)  20g,other brands,1.79,2,Unclear,4,Yami,Seaweed,400,1600,716
+Crispy Seaweed Pad Thai Flavor 32g,tao kae noi,1.99,7,Thailand,3.9,Yami,Seaweed,400,1600,796
+Tempura Seaweed Wasabi Flavor 40g,four seas,2.89,8,Mainland China,4.2,Yami,Seaweed,400,1600,1156
+Roasted & Seasoned Seaweed 80g,jayone,3.69,4,Unclear,4.8,Yami,Seaweed,25,100,92
+Seaweed Crisps Cheese Flavor 30g,magie pop,2.09,4,Unclear,4.8,Yami,Seaweed,400,1600,836
+Seaweed Crisps Wasabi Flavor 30g,magie pop,2.09,2,Unclear,5,Yami,Seaweed,400,1600,836
+Seaweed Hot & Spicy Flavor 2.8g,four seas,0.99,9,Mainland China,4,Yami,Seaweed,400,1600,396
+Roadted Seaweed Yaki Nori 25g,yamatoku,2.59,6,Unclear,3.5,Yami,Seaweed,400,1600,1036
+Seaweed Crisps Hot&Spicy Flavor 30g,magie pop,2.09,3,Unclear,4.7,Yami,Seaweed,400,1600,836
+Seaweed Tempura Snack Sriracha Flavor 29g,sea's gift,3.99,2,Korea,4,Yami,Seaweed,400,1600,1596
+Big Roll Grilled Seaweed Roll Original Flavor 9pc,tao kae noi,2.99,340,Thailand,4.7,Yami,Seaweed,400,1600,1196
+Dried Seaweed Knot 30g,spring farm,1.99,96,Mainland China,4.8,Yami,Seaweed,400,1600,796
+Dried Seaweed Slice 30g,spring farm,1.86,23,Mainland China,4.9,Yami,Seaweed,400,1600,744
+Big Roll Grilled Seaweed Roll Spicy Flavor 9pc,tao kae noi,2.99,303,Thailand,4.7,Yami,Seaweed,400,1600,1196
+Roasted Seaweed 5g*3bags,paldo,1.39,54,Korea,4.9,Yami,Seaweed,400,1600,556
+"Seasoned Seaweed Dosirak Curry Flavor, 1 pack",kwangcheonkim,0.59,27,Unclear,4.7,Yami,Seaweed,400,1600,236
+Salted Seaweed Slice 454g,watson,4.99,10,Unclear,5,Yami,Seaweed,400,1600,1996
+USDA Organic Seaweed 10 Sheet,little jasmine,4.49,3,Unclear,5,Yami,Seaweed,400,1600,1796
+Stir Fried Tuna Fish Floss w. Seaweed & Sesame 200g,chien jung foods,9.29,2,Unclear,5,Yami,Seaweed,25,100,232
+Dried Seaweed Knot,chanzuiba,3.49,4,Unclear,4.5,Yami,Seaweed,200,800,698
+SEAWEED Seasoned Seaweed Original 50pc,four seas,7.49,13,Unclear,5,Yami,Seaweed,400,1600,2996
+Roasted Seaweed Snack 60g,jayone,6.29,21,Korea,4.6,Yami,Seaweed,400,1600,2516
+Low Sodium Roasted Seaweed 10pc 50g,biostar pororo,3.39,13,Unclear,5,Yami,Seaweed,200,800,678
+Big Roll Grilled Seaweed Roll Tom Yum Goong Flavor 9pc,tao kae noi,2.99,71,Thailand,4.4,Yami,Seaweed,400,1600,1196
+Excellent Seaweed Sandwich Seaweed 36g,ajichibean,3.49,13,Mainland China,4.6,Yami,Seaweed,300,1200,1047
+Korean Seaweed Crunch Original Flavor 20g,koko farm,2.79,13,Unclear,4.5,Yami,Seaweed,400,1600,1116
+True Shrimp Seaweed Rolls 50g,bestore,6.99,11,Unclear,3.4,Yami,Seaweed,200,800,1398
+Super Crispy Grilled Seaweed -Chicken Larb Flavor 40g,tao kae noi,1.99,2,Unclear,4,Yami,Seaweed,400,1600,796
+Flavored Seaweed Sesame Flavor 2.3g,surasang,0.19,5,Unclear,4.6,Yami,Seaweed,400,1600,76
+Avocado Oil Nori Seaweed 4g*16,kc,8.49,0,Unclear,0,Yami,Seaweed,25,100,212
+HANHENG Dried Seaweed 60g,hanheng taste,4.39,143,Unclear,4.9,Yami,Seaweed,400,1600,1756
+Dried Seaweed Wakame 100g,bgreen,3.99,148,Mainland China,4.9,Yami,Seaweed,200,800,798
+Dried Seaweed Slice,chanzuiba,2.99,0,Unclear,0,Yami,Seaweed,200,800,598
+HSIN TUNG YANG Seaweed Snack with Purple Rice 40g,hsintungyang,3.49,56,Taiwan,4.5,Yami,Seaweed,400,1600,1396
+WANG Dried Seaweed 142g,wang food,6.99,11,Unclear,4.3,Yami,Seaweed,400,1600,2796
+Undaria Pinnitafida Dried Seaweed Strips 100g,other brands,2.99,4,Unclear,5,Yami,Seaweed,400,1600,1196
+Sun Right Seaweed Soup (Vegetable Flavor) 80g 3 Minute Ready Soup,sunlight,4.99,14,Unclear,4.8,Yami,Seaweed,400,1600,1996
+Roasted Salted Seaweed 70g,dae ri,3.29,27,Unclear,4.7,Yami,Seaweed,200,800,658
+HSIN TUNG YANG Seaweed Snack With Red Wheat 40g,hsintungyang,3.49,37,Unclear,4.5,Yami,Seaweed,400,1600,1396
+SURA Natural Seasoned Seaweed 60g,surasang,3.89,24,Korea,4.6,Yami,Seaweed,400,1600,1556
+Crispy Seaweed Peking Duck Flavor 32g,tao kae noi,1.99,25,Thailand,3.5,Yami,Seaweed,400,1600,796
+Seasoned & Rosted Seaweed Snack 60g 12pc,jayone,5.99,12,Unclear,4.8,Yami,Seaweed,400,1600,2396
+Korean Seaweed Crunch Cranberry Flavor 20g,koko farm,2.79,14,Unclear,4.1,Yami,Seaweed,400,1600,1116
+Furikake Seas Rst Seaweed Flakes Vegetable 30g,shirakiku,2.19,2,Unclear,5,Yami,Seaweed,400,1600,876
+Crispy Seaweed Cheese Flavor 32g,tao kae noi,1.99,1,Thailand,5,Yami,Seaweed,400,1600,796
+Crispy Seaweed 3pcs 15g,han asia,1.39,3,Unclear,4.3,Yami,Seaweed,400,1600,556
+"Seasoned Seaweed Dosirak with Olive Oil & Green Tea Powder, 12 pack",kwangcheonkim,4.99,1,Unclear,5,Yami,Seaweed,400,1600,1996
+?€?Frozen?€?CJ Crispy Seaweed Rolls Hot&Spocy Flavor 500g,che il jedang,8.99,0,Unclear,0,Yami,Seaweed,25,100,225
+Big Roll Grilled Seaweed Roll BBQ Flavor 9pc,tao kae noi,2.99,141,Thailand,4.6,Yami,Seaweed,400,1600,1196
+Seaweed Roll Fried Shrimp With Salad Cream 72g,tao kae noi,3.49,118,Thailand,4.7,Yami,Seaweed,400,1600,1396
+Roasted & Lightly Salted Seaweed 24packs  120g,jayone,9.89,114,Korea,4.8,Yami,Seaweed,400,1600,3956
+WANG Korean Seasoned Seaweed 10+2packs,wang food,5.59,87,Korea,4.7,Yami,Seaweed,400,1600,2236
+Seaweed &Seasame Thins 35g,bestore,2.69,14,Unclear,4.8,Yami,Seaweed,300,1200,807
+Seaweed Snack Spicy Flavor 6 Bags,a-sha,6.89,22,Taiwan,4.7,Yami,Seaweed,200,800,1378
+Crispy Seaweed Thai Curry Crab Flavor 32g,tao kae noi,1.99,18,Thailand,3.6,Yami,Seaweed,400,1600,796
+CJ BIBIGO Seaweed Crisps Honey & Corn 20g,che il jedang,2.29,15,Korea,4,Yami,Seaweed,400,1600,916
+Seaweed Wasabi Flavor 2.8g,four seas,0.99,7,Mainland China,3.3,Yami,Seaweed,400,1600,396
+Big Sheet Seaweed Seafood Flavor 12pc 38g,tao kae noi,3.89,4,Unclear,5,Yami,Seaweed,400,1600,1556
+Excellent Sandwich Seaweed 36g,ajichibean,3.59,10,Mainland China,4.8,Yami,Seaweed,300,1200,1077
+?€?Frozen?€?CJ Bibigo Crispy Seaweed Roll 500g,che il jedang,8.99,0,Unclear,0,Yami,Seaweed,25,100,225
+Dried Seaweed,yufu food,2.99,3,Unclear,5,Yami,Seaweed,400,1600,1196
+Dried Cut Sea Tangle Konbu Seaweed 150g,ottogi,7.99,0,Unclear,0,Yami,Seaweed,400,1600,3196
+Dried Seaweed 50g,spring farm,4.99,93,Mainland China,4.9,Yami,Seaweed,400,1600,1996
+HanHeng Dry Seaweed Sliced 7oz,hanheng taste,2.99,48,Unclear,4.9,Yami,Seaweed,400,1600,1196
+Dried Seaweed 50g,city aroma,2.69,10,Unclear,5,Yami,Seaweed,400,1600,1076
+BIG ROLL Grilled Seaweed Roll Kimchi Flavor 9 Packets,tao kae noi,2.99,17,Unclear,4.8,Yami,Seaweed,400,1600,1196
+CJ Crispy toasted seaweed  12pcs 60g,che il jedang,6.29,20,Korea,4.5,Yami,Seaweed,400,1600,2516
+Seaweed Original Flavor 2.8g,four seas,0.99,7,Mainland China,4.6,Yami,Seaweed,400,1600,396
+Spicy Seasoned Seaweed 100bags 90g,honshu,6.69,19,Japan,4.2,Yami,Seaweed,200,800,1338
+Big Sheet Seaweed Japanese Soy Sauce Flavor 12pc 38g,tao kae noi,3.39,15,Unclear,5,Yami,Seaweed,400,1600,1356
+Crispy Seaweed Tomato Sauce Flavor 32g,tao kae noi,1.99,14,Thailand,4.1,Yami,Seaweed,400,1600,796
+Baked Fish Crackers with Seaweed 220g,donggang,10.99,2,Unclear,5,Yami,Seaweed,400,1600,4396
+Roasted Seaweed Spicy 3pc,tao kae noi,1.99,12,Unclear,2.6,Yami,Seaweed,400,1600,796
+Roasted Seasoned Seaweed 5g*3pc,being blue,1.59,0,Unclear,0,Yami,Seaweed,300,1200,477
+Dried Seaweed 60g,tcjp,3.99,0,Unclear,0,Yami,Seaweed,400,1600,1596
+Seaweed Snack Original Flavor 6 Bags,a-sha,6.89,67,Taiwan,4.9,Yami,Seaweed,400,1600,2756
+BIBIGO Savory Roasted Korean Seasoned Seaweed 8acks 40g,che il jedang,3.29,25,Korea,4.3,Yami,Seaweed,200,800,658
+Original Seasoned Seaweed 90g,honshu,6.69,18,Mainland China,4.2,Yami,Seaweed,200,800,1338
+Crispy Seaweed 1.9oz,pmo,6.49,5,Unclear,4.6,Yami,Seaweed,400,1600,2596
+Crispy Seaweed Seasoned with Perilla Seed Oil (Original) 40g,pulmuone,3.49,1,Unclear,4,Yami,Seaweed,400,1600,1396
+Bakauke AceCook Seaweed Flavor 4packs,kuriyama ajimurasaki,3.29,0,Unclear,0,Yami,Seaweed,400,1600,1316
+Seaweed-Pumpkin Chips 60g,bestore,5.89,0,Mainland China,0,Yami,Seaweed,200,800,1178
+Dried Seaweed Strips 100g,hanheng taste,1.49,207,Unclear,4.6,Yami,Seaweed,25,100,37
+Dried Seaweed (Dashi Konbu) 100g,bgreen,2.99,69,Mainland China,4.9,Yami,Seaweed,400,1600,1196
+Dried Seaweed 90g,yuho,6.29,26,Mainland China,4.9,Yami,Seaweed,400,1600,2516
+Sun Right Seaweed Soup (Egg Flavor) 80g 3 Minute Ready Soup,sunright,4.99,2,Unclear,5,Yami,Seaweed,400,1600,1996
+Sun Right Seaweed Soup (Seafood Flavor) 80g 3 Minute Ready Soup,sunright,4.99,5,Unclear,5,Yami,Seaweed,400,1600,1996
+Roasted  Layer Seaweed 20g,nh,1.89,3,Unclear,5,Yami,Seaweed,400,1600,756
+Dried Seaweed Knots 100g,hanheng taste,1.99,32,Mainland China,4.5,Yami,Seaweed,200,800,398
+Dried Seaweed (Pressed) 105g,spring farm,8.99,3,Unclear,5,Yami,Seaweed,400,1600,3596
+Deep Sea Seaweed 20g,ayibo,1.99,0,Unclear,0,Yami,Seaweed,300,1200,597
+Big Roll Spicy Squid Flavor 9pc,tao kae noi,2.99,143,Thailand,4.6,Yami,Seaweed,400,1600,1196
+Crispy Japanese Sauce Flavor 32g,tao kae noi,1.99,1,Thailand,2,Yami,Seaweed,400,1600,796
+Classic Seaweed Sugar Cake 120g,ranli,3.59,357,Japan,4.8,Yami,Seaweed,400,1600,1436
+Rice Cracker Seaweed Flavor 150g,weilong,3.99,1,Mainland China,5,Yami,Seaweed,400,1600,1596
+Yam Chips Seaweed Flavor 90g,hongtu,2.49,79,Unclear,4.7,Yami,Seaweed,400,1600,996
+Chip Star Potato Chips Seaweed 115g,nabisco,4.39,3,Unclear,5,Yami,Seaweed,400,1600,1756
+Crispy Potato Chip Seaweed Flavor  266g,honlife,3.99,48,Unclear,5,Yami,Seaweed,400,1600,1596
+ZHONHGWANG Seaweed Flavor a Crisp Dough Twist  235g,zhongwang,4.09,3,Mainland China,5,Yami,Seaweed,400,1600,1636
+Potato Chips Seaweed Salt Flavor 55g,nissin,2.49,6,Japan,4.3,Yami,Seaweed,400,1600,996
+Glutinous Rice Twist Seaweed Flavor 108g,aiyomi,1.99,5,Mainland China,3.4,Yami,Seaweed,300,1200,597
+Seaweed Rice Cracker 308g,want want,4.99,4,Mainland China,3.8,Yami,Seaweed,400,1600,1996
+WANTWANT Hot Kid Shelly Senbei Seaweed Flavor 350g,want want,6.29,2,Taiwan,5,Yami,Seaweed,400,1600,2516
+Japanese Seaweed Rice Crackers 160g,want want,3.29,231,Mainland China,4.8,Yami,Seaweed,400,1600,1316
+Seaweed Saltine Cracker 140g,zhongxiang,2.59,15,Taiwan,4.7,Yami,Seaweed,400,1600,1036
+LONELY GOD Japanese Seaweed Flavor Potato Twists 70g,want want,2.29,52,Mainland China,4.3,Yami,Seaweed,400,1600,916
+LONELY GOD Japanese Seaweed Flavor Potato Twists 42g,want want,1.49,112,Taiwan,4.5,Yami,Seaweed,400,1600,596
+Seaweed Flavor Mini-Fried Dough Twist 100g,zhongwang,1.79,55,Unclear,4.6,Yami,Seaweed,400,1600,716
+"Japanese Baked Cake Seaweed Flavor, 1PC",moranca,2.09,30,Unclear,4.7,Yami,Seaweed,400,1600,836
+Seaweed Knots Spicy Flavor 218g,dongdong,3.49,22,Unclear,4.6,Yami,Seaweed,200,800,698
+Japanese Seaweed Rice Cracker Family Size 450g,want want,8.59,85,Mainland China,4.8,Yami,Seaweed,400,1600,3436
+French Fries Lake's Salt and Seaweed Flavor 90g,pop-smile,2.49,11,Unclear,4.5,Yami,Seaweed,400,1600,996
+Rice Crackers Seaweed 43g,oh ma grain,1.09,8,Unclear,4.4,Yami,Seaweed,400,1600,436
+"Flavored Broad Bean Seaweed, 500g",diehuapai,4.79,6,Unclear,4.7,Yami,Seaweed,400,1600,1916
+Seaweed Soup Delicious Mi-Yok Guk 18g,ottogi,3.49,243,Unclear,4.8,Yami,Seaweed,400,1600,1396
+Potato Chips Seaweed Flavor 318g,lz,6.59,7,Mainland China,3.1,Yami,Seaweed,400,1600,2636
+Peanut Toffee Seaweed 270g,lung ching,5.99,0,Unclear,0,Yami,Seaweed,400,1600,2396
+Brine Seaweed 700g,koushuiwa,6.99,32,Mainland China,4.5,Yami,Seaweed,400,1600,2796
+Koreabob Seaweed 40g,orion,0.99,121,Korea,4.8,Yami,Seaweed,400,1600,396
+Salty Seaweed Flavor Mini-Fried Dough Twist 130g,zhongwang,1.69,70,Mainland China,4.6,Yami,Seaweed,400,1600,676
+HIKARI MISO Enjuku Instant Miso Soup Wakame Seaweed 5.5oz,hikarimiso,3.69,24,Japan,4.8,Yami,Seaweed,200,800,738
+Instant Wakame Seaweed Soup 18g,kikkoman,2.99,3,Unclear,5,Yami,Seaweed,25,100,75
+Prince Noodle Seaweed Flavor 20packs,ve wong,3.49,29,Taiwan,4.8,Yami,Seaweed,400,1600,1396
+Dried Seaweed Crisp Knot Spicy Flavor 160g,honlife,3.29,28,Unclear,4.7,Yami,Seaweed,400,1600,1316
+GuoKui Seaweed Biscuit 70g,agan,5.99,0,Unclear,0,Yami,Seaweed,300,1200,1797
+ENLIEN Small Twist Seaweed Flavor 135g,ease taste,2.29,18,Unclear,4.5,Yami,Seaweed,200,800,458
+Seaweed with Pepper 80g,caihuaxiang,0.79,22,Unclear,3.9,Yami,Seaweed,200,800,158
+Sour Noodle Soup with Seaweed and Shrimp 108g,gudasao,2.39,4,Unclear,3.8,Yami,Seaweed,400,1600,956
+Seaweed Noodle Soup 45g,guangyou,1.39,22,Unclear,4,Yami,Seaweed,200,800,278
+Riken Seaweed Soup Ramen,sanyo foods,2.99,0,Unclear,0,Yami,Seaweed,400,1600,1196
+Pickled Pepper and Seaweed 60g,weijute,0.59,29,Mainland China,4.6,Yami,Seaweed,400,1600,236
+HIBI Seaweed Soy Sauce Rice Cracker 45g,japanese,4.19,33,Japan,4.5,Yami,Seaweed,400,1600,1676
+LIOUCIOU FU WEI Handmade Twisted Roll Seaweed Flavor 200g,lioucioufuwei,3.89,14,Taiwan,4.8,Yami,Seaweed,400,1600,1556
+Seaweed Crisp Bamboo Shoots Spicy Flavor 160g,bestore,3.49,16,Mainland China,4.6,Yami,Seaweed,400,1600,1396
+Lay's-Potato Chips(Roasted seaweed) 104g x 24cans/cs,lay's,3.99,2,Unclear,4.5,Yami,Seaweed,400,1600,1596
+TK FOOD Seaweed Thousand Layers Cookies 120g,tkfood,1.59,16,Taiwan,3.7,Yami,Seaweed,400,1600,636
+Potato Chips Seaweed Flavor 65g,lay's,2.29,14,Unclear,4.7,Yami,Seaweed,400,1600,916
+Japanese Style Crackers Seaweed Flavor 50g,oishi,1.59,2,Mainland China,5,Yami,Seaweed,400,1600,636
+Twist Seaweed Flavor 160g,chenjiwangfu,1.99,8,Unclear,4.9,Yami,Seaweed,200,800,398
+Mushroom Crisp Seaweed Flavor 40g,guziguzi,3.69,8,Mainland China,4.9,Yami,Seaweed,400,1600,1476
+Seaweed with Red Chili 80g,caihuaxiang,0.79,16,Mainland China,4.3,Yami,Seaweed,400,1600,316
+Petit Chips Seaweed Flavor 54g,bourbon,1.69,1,Unclear,5,Yami,Seaweed,200,800,338
+Pop-Rice-Garlic Seaweed 50g,natural,1.49,6,Unclear,3.2,Yami,Seaweed,400,1600,596
+Sour Noodle Soup-Seaweed and Shrimp 110g,hesai,2.39,4,Unclear,5,Yami,Seaweed,25,100,60
+KANGSHIFU Crispy Biscuit Toll(Seaweed) 384g,master kong,9.59,8,Unclear,5,Yami,Seaweed,400,1600,3836
+Ban Mee Noodle Kelp Seaweed 530g,mei heong yuen,4.99,4,Unclear,3.8,Yami,Seaweed,400,1600,1996
+Dried Mushroom Seaweed Flavor 50g,guxiangguxiang,5.99,4,Unclear,4.5,Yami,Seaweed,400,1600,2396
+?€?Frozen?€?Rice Cake with Fish Cake & Seaweed Roll 360g,pmo,5.99,0,Unclear,0,Yami,Seaweed,400,1600,2396
+XIAOWANGZ Rice Cracker (Seaweed Flavor) 308g,xiaowangzi,4.79,3,Unclear,3,Yami,Seaweed,400,1600,1916
+Spicy Seaweed 28g*20pcs,budaishixiong,6.49,4,Mainland China,4,Yami,Seaweed,25,100,162
+Seasoned Seaweed 3pk,sura,1.39,1,Unclear,5,Yami,Seaweed,400,1600,556
+Seaweed Fish Pastry 144g,sheng zu,14.99,0,Unclear,0,Yami,Seaweed,400,1600,5996
+Koreabob Seaweed 160g,orion,3.59,26,Korea,4.8,Yami,Seaweed,400,1600,1436
+Dried Seaweed Knot 200g,chanzuiba,3.14,2,Unclear,5,Yami,Seaweed,200,800,628
+Limited Seaweed Soda Cracker 310g,zhongxiang,5.29,49,Taiwan,4.6,Yami,Seaweed,400,1600,2116
+Seaweed Rice Cracker 102g,want want,2.59,27,Mainland China,4.8,Yami,Seaweed,400,1600,1036
+Dried Seaweed Crisp Hot and Sour Flavor 160g,honlife,2.99,41,Unclear,4.7,Yami,Seaweed,400,1600,1196
+Dried Seaweed Crisp Spicy Flavor 160g,honlife,3.29,30,Unclear,4.7,Yami,Seaweed,400,1600,1316
+ZHONHGWANG Seaweed Flavor a Crisp Dough Twist 512g,zhongwang,6.79,25,Mainland China,4.5,Yami,Seaweed,400,1600,2716
+Multigrain Fruit Seaweed Flavor 160g,milaotou,2.99,22,Unclear,4.9,Yami,Seaweed,400,1600,1196
+COOKIE Seaweed 400g,pacific,4.69,12,Mainland China,4.1,Yami,Seaweed,400,1600,1876
+Seaweed Flavor Craker 300g,bestore,4.99,2,Unclear,5,Yami,Seaweed,200,800,998
+Rice Stick Seaweed Flavor 300g,other brands,3.99,6,Unclear,4.8,Yami,Seaweed,400,1600,1596
+Seaweed Flavored Cashew Nuts 45g,yifen,2.99,1,Unclear,5,Yami,Seaweed,400,1600,1196
+Rice Cracker Seaweed Flavor 99g,kuriyama ajimurasaki,3.99,1,Unclear,4,Yami,Seaweed,400,1600,1596
+HongKong Style Fish Ball Spicy Flavor 90g,shi zai guo yin,3.29,11,Unclear,4.9,Yami,Seaweed,400,1600,1316
+Fishsnack Spicy Flavor Think 56.7g,north sea,2.69,16,Mainland China,4.8,Yami,Seaweed,400,1600,1076
+"Dried Squid Snack Spicy Flavor, 20g",bento,1.99,251,Thailand,4.6,Yami,Seaweed,1000,4000,1990
+Roasted Pollock Fillets 170g,simply seafoods,8.49,80,Mainland China,4.5,Yami,Seaweed,400,1600,3396
+YES SIR Crispy dried Shrimp-Hot spicy 25g,xiaxiansheng,4.39,24,Unclear,4.6,Yami,Seaweed,400,1600,1756
+TENGXIN FOODS Srab Sticker Crabmeat Flavor 300g,haixin,6.89,80,Mainland China,4.1,Yami,Seaweed,400,1600,2756
+Fish Sausage With Cheese 90g,jayone,2.29,416,Korea,4.4,Yami,Seaweed,400,1600,916
+Dried Squid Spicy Larb Flavor 20g,bento,1.99,3,Unclear,4.3,Yami,Seaweed,200,800,398
+Marinated Fish Pepper Flavor 240g,dongdong,5.69,36,Mainland China,4.7,Yami,Seaweed,100,400,569
+Fried Salmon Fish Skin Spicy 100g,feilong,4.69,16,Unclear,4.6,Yami,Seaweed,200,800,938
+Dried Fish (Iwashikko) 37g,izumiya,4.99,8,Unclear,4.6,Yami,Seaweed,25,100,125
+Deep-ocean Little Fish Spicy 50g,jinzai,1.99,18,Unclear,4.7,Yami,Seaweed,400,1600,796
+Marinated Fish Hot Salted Flavor 240g,dongdong,5.69,22,Mainland China,4.6,Yami,Seaweed,200,800,1138
+Dried Shredded Cod with Black Sesame 180g,donggang,10.99,0,Unclear,0,Yami,Seaweed,400,1600,4396
+SHANGHAI Smoked Fish Original Flavor 250g,lao du agriculture,9.99,3,Mainland China,4.7,Yami,Seaweed,400,1600,3996
+LXS Dried Spicy Squid Larvae 230g,laoxiansheng,11.59,22,Mainland China,4.7,Yami,Seaweed,400,1600,4636
+TENGXIN Crab Roll BBQ Flavor 360g,haixin,5.99,31,Mainland China,4.1,Yami,Seaweed,200,800,1198
+Crispy Fried Fish Spicy Flavor 120g,bestore,4.89,21,Mainland China,4.1,Yami,Seaweed,200,800,978
+LYF Crispy yellow croaker 125g,yifen,3.99,12,Unclear,3.8,Yami,Seaweed,400,1600,1596
+LXS Dried Squid Shreds 68g,laoxiansheng,2.39,14,Mainland China,4.7,Yami,Seaweed,400,1600,956
+ZHUAYUDEMAO Spicy Fish Snack (Tempeh) 80g,duo you duo,2.89,20,Mainland China,4.3,Yami,Seaweed,200,800,578
+HONG KONG UNCHI Fish Skin Chips Salted Egg Yolk Flavor 50g,hong kong un chi,5.79,24,Unclear,3.7,Yami,Seaweed,200,800,1158
+Stir Fried Marlin Fish Floss 250g,chien jung foods,8.99,11,Taiwan,4.9,Yami,Seaweed,25,100,225
+ROFEEL VIKE Little Yellow Croaker Hot 320g,rofeel,5.89,19,Mainland China,4.7,Yami,Seaweed,400,1600,2356
+Boss Shrimp Spiced Salt 18g,xiangzaibian,4.49,23,Taiwan,4.1,Yami,Seaweed,400,1600,1796
+HUAWEN Spiced Fish Snack Fermented Soybean Flavor 240g,hua wen food,6.89,19,Mainland China,4.1,Yami,Seaweed,200,800,1378
+Fish Ball -Spicy 100g,bestore,3.49,7,Mainland China,3.6,Yami,Seaweed,200,800,698
+Canned Fresh Dace 184g,eagle coin,4.59,13,Mainland China,3.8,Yami,Seaweed,400,1600,1836
+Fish and Chesse Sausage Stick 3 each 81g,che il jedang,1.99,13,Korea,3.8,Yami,Seaweed,400,1600,796
+Squid Hot Chicken Flavor 40g,samyang,3.29,6,Korea,4.5,Yami,Seaweed,400,1600,1316
+Gguiking Fish Snack Original Flavor Org,hanjin,1.59,13,Unclear,4.5,Yami,Seaweed,200,800,318
+ROFEEL VIKE Little Yellow Croaker Honey Spicy 32g,rofeel,1.89,12,Mainland China,5,Yami,Seaweed,400,1600,756
+Dried Abalone Style Shellfish 85g,tsh,6.89,4,United States,4,Yami,Seaweed,400,1600,2756
+Crispy Shrimp 18g,xiangzaibian,4.49,14,Unclear,4.4,Yami,Seaweed,400,1600,1796
+Fish Skin Chips Original Flavor 110g,hong kong un chi,5.79,8,Unclear,4.5,Yami,Seaweed,25,100,145
+Crispy Fish Skin Salted Egg Yolk 50g,wjgd,3.69,4,Unclear,3.8,Yami,Seaweed,400,1600,1476
+BRAND Ten Jang Prepared Fish BBQ 42.5g,ladybird,1.69,12,Thailand,3.8,Yami,Seaweed,400,1600,676
+Stir Fried Tuna Fish Floss 250g,chien jung foods,8.99,5,Taiwan,5,Yami,Seaweed,25,100,225
+Crispy Yellow Fish 118g,bestore,5.49,3,Unclear,3.7,Yami,Seaweed,200,800,1098
+Canned Tuna Light Standard 150g*3,sajo,9.99,3,Unclear,5,Yami,Seaweed,400,1600,3996
+LXS Dried Spicy Tentacles Squid 500g,laoxiansheng,15.99,7,Mainland China,3.3,Yami,Seaweed,400,1600,6396
+Fish Snack (Soy sauce) 20Pcs 260g,yanjinpuzi,5.39,7,Mainland China,4.4,Yami,Seaweed,400,1600,2156
+Shredded Jellyfish Sweet and Sour Flavor 150g,yida foods,1.59,3,Unclear,4.3,Yami,Seaweed,400,1600,636
+Fried Dace with Pepper 184g,eagle coin,4.59,3,Unclear,4.7,Yami,Seaweed,400,1600,1836
+Fish Chips Salted Egg Yolk 50g,dah tien,3.09,5,Unclear,4.4,Yami,Seaweed,400,1600,1236
+Hawthorn Ham Stick 168g,yimu,3.69,2,Unclear,4.5,Yami,Seaweed,400,1600,1476
+LINJU Crunch Fish Hot Chili Flavor20g,dalitianjiang,1.39,6,Unclear,3.7,Yami,Seaweed,400,1600,556
+Cut Yaki Iwashi 1.79OZ,maruesu,5.49,2,Japan,5,Yami,Seaweed,400,1600,2196
+Dried Shrimp (Otsumami Yaki Ebi)  11g,kojima,2.79,1,Unclear,2,Yami,Seaweed,400,1600,1116
+Dried Shrimp-Almond 48g,izumiya,4.59,2,Unclear,5,Yami,Seaweed,25,100,115
+PENGUIN Seasoned And Cooked Saury 140g,penguin's,3.39,0,Unclear,0,Yami,Seaweed,400,1600,1356
+PENGUIN Bai-Top Shell In Can 400g,penguin's,11.59,0,Unclear,0,Yami,Seaweed,400,1600,4636
+HUAWEN Spiced Fish Snack Spicy Flavor 12g 20pc 240g,hua wen food,6.09,274,Mainland China,4.7,Yami,Seaweed,400,1600,2436
+Fish Meat Sausage With Cheese 360g,jayone,6.29,228,Korea,4.4,Yami,Seaweed,400,1600,2516
+TENGXIN FOODS Srab Sticker BBQ Flavor 300g,haixin,6.99,81,Mainland China,4.1,Yami,Seaweed,400,1600,2796
+ROFEEL Little Yellow Croaker 106g,rofeel,3.39,8,Mainland China,4.6,Yami,Seaweed,400,1600,1356
+Littfe Yellow Croaker Hot&Spicy 106g,rofeel,3.39,6,Unclear,4.5,Yami,Seaweed,400,1600,1356
+Big Sheet Original Flavor 12pc 38g,tao kae noi,3.89,10,Unclear,4.8,Yami,Seaweed,400,1600,1556
+Qingjiang Wild Fish BBQ Flavor 110g,tulaohan,3.99,7,Mainland China,4.1,Yami,Seaweed,400,1600,1596
+Kwangcheon Roasted and Seasoned Laver,kwangcheonkim,5.99,0,Unclear,0,Yami,Seaweed,400,1600,2396
+Crispy Fish Skin Spicy Flavor 50g,wjgd,3.69,2,Unclear,5,Yami,Seaweed,400,1600,1476
+Dried Tuna Jerky 180g,donggang,10.99,2,Unclear,4,Yami,Seaweed,400,1600,4396
+TONGRONG Tomato Fish Can,tongyeng,2.29,29,Unclear,4.6,Yami,Seaweed,400,1600,916
+Qingjiang Wild Fish Pickle Flavor 110g,tulaohan,3.99,19,Mainland China,4.2,Yami,Seaweed,400,1600,1596
+Dried Shredded Fish Snacks 110g,donggang,10.99,1,Unclear,5,Yami,Seaweed,400,1600,4396
+Fish Sausage Ham Flavor,jinju,7.69,31,Unclear,4.5,Yami,Seaweed,400,1600,3076
+YoYo Squid-Spicy 93g,bestore,6.99,47,Mainland China,4.5,Yami,Seaweed,200,800,1398
+Fried Salmon Fish Skin Garlic 100g,feilong,4.69,6,Unclear,3.3,Yami,Seaweed,400,1600,1876
+Dried Golden Shrimp Cracker 150g,donggang,10.99,0,Unclear,0,Yami,Seaweed,400,1600,4396
+YES SIR Crispy Dried Shrimp Original Flavor 25g,xiaxiansheng,4.39,25,Taiwan,4.6,Yami,Seaweed,400,1600,1756
+Sweet and Spicy Deep Sea Yellow Croaker 100g,rongnuohaishi,5.89,23,Unclear,4.7,Yami,Seaweed,400,1600,2356
+Fried Shrimp Cheek Original Flavor 25g,monori,1.79,121,Unclear,4.7,Yami,Seaweed,400,1600,716
+Crispy Fried Yellow Croker Fish Can 105g,ljpz,2.49,17,Unclear,4.6,Yami,Seaweed,400,1600,996
+Spicy Squid,rongnuohaishi,6.39,23,Unclear,4.5,Yami,Seaweed,400,1600,2556
+Smoked Seasoned Shredded Squid 170g,haitai,6.89,30,Mainland China,4.3,Yami,Seaweed,200,800,1378
+Baked Half Sillage 20g,okabe,3.49,26,Japan,4.3,Yami,Seaweed,400,1600,1396
+Dried Shrimp (Suboshi Ebi) 12g,yamahide,2.09,7,Unclear,4.6,Yami,Seaweed,400,1600,836
+ROFEEL VIKE Little Yellow Croaker Honey Spicy 320g,rofeel,5.89,36,Mainland China,4.2,Yami,Seaweed,400,1600,2356
+Deep-ocean Little Fish Sauce 48g,jinzai,1.39,17,Unclear,5,Yami,Seaweed,400,1600,556
+Spicy Fish Snack (happy) 80g,zhuayudemao,2.89,29,Unclear,4.7,Yami,Seaweed,400,1600,1156
+TENGXIN Crab Roll Original Flavor 360g,haixin,5.99,30,Mainland China,4.3,Yami,Seaweed,200,800,1198
+Fish Sausage Cheese Flavor 400g,dalitianjiang,9.89,19,Korea,4.6,Yami,Seaweed,200,800,1978
+Fish and Chesse Sausage Stick 162g,che il jedang,3.69,26,Korea,3.8,Yami,Seaweed,200,800,738
+Yesso Scallop 100g,bestore,12.99,18,Mainland China,4.2,Yami,Seaweed,400,1600,5196
+Wild Caught Anchovy 184g,asia foods,4.59,8,Unclear,4.9,Yami,Seaweed,300,1200,1377
+Dried Squid Shreds 45g,yamaei,8.39,3,Unclear,5,Yami,Seaweed,400,1600,3356
+Ground Fried Pollock Fish Floss 15gx10pk,weiyi,9.99,0,Unclear,0,Yami,Seaweed,400,1600,3996
+CHIEN JUNG FOOD Stir Fried Salmon Fish Floss 200g,chien jung foods,9.29,2,Unclear,5,Yami,Seaweed,25,100,232
+WANG Korean Boiled Bai Top Shell Whelk 400g,wang food,9.99,6,Unclear,4.5,Yami,Seaweed,400,1600,3996
+"Dried Fish with Honey Mustard Peanuts, 5 Pack*30g",yu gan de yu gan,10.99,3,Unclear,5,Yami,Seaweed,400,1600,4396
+Fish Snack Duck Flavor 240g,dongtingmatou,5.89,10,Mainland China,4.2,Yami,Seaweed,400,1600,2356
+Fried Seasoned Anchovy BBQ Flavor 4.2oz,three deer,5.99,5,Unclear,4.2,Yami,Seaweed,400,1600,2396
+HONG KONG UNCHI Fish Skin Chips Spicy Flavor 110g,hong kong un chi,5.79,8,Unclear,3.4,Yami,Seaweed,25,100,145
+Hot & Spicy Dried Snack 300g,shudaoxiang,9.99,4,Unclear,4.8,Yami,Seaweed,400,1600,3996
+Fish Snack (SPICY) 20Pcs 260g,yanjinpuzi,5.39,6,Mainland China,4.8,Yami,Seaweed,400,1600,2156
+Smoked Squid with Cheese 120g,yamaei,13.29,2,Unclear,5,Yami,Seaweed,400,1600,5316
+TENGXIN FOODS Shake Crab Crab Sticks Super Spicy Flavor 20packs 240g,haixin,6.29,6,Mainland China,4,Yami,Seaweed,400,1600,2516
+Roasted Squid Snack Spicy Bulgogi Flavor  50g,jayone,5.99,1,Unclear,2,Yami,Seaweed,25,100,150
+Spicy Shrimps 40g,huajing,2.69,2,Unclear,5,Yami,Seaweed,25,100,67
+JIUJU Fish Sausage Cone Cheese 300g,dalitianjiang,4.89,1,Korea,3,Yami,Seaweed,25,100,122
+Scallop Cheese 120g,hokkaido,17.99,2,Unclear,3,Yami,Seaweed,25,100,450
+Fish Skin Original Flavor 60g,wow,3.79,4,Unclear,3.5,Yami,Seaweed,400,1600,1516
+Seasoned Laver Cheese Flavor 18g,krm,1.99,1,Unclear,5,Yami,Seaweed,400,1600,796
+Canned Dace with Salted Black Beans 184g,eagle coin,4.49,164,Mainland China,4.8,Yami,Seaweed,400,1600,1796
+Qingjiang Wild Fish Spicy Flavor 110g,tulaohan,4.49,17,Mainland China,4.5,Yami,Seaweed,400,1600,1796
+TONGRONG Black Pepper Eel Can 100g,tongyeng,2.19,18,Unclear,4.1,Yami,Seaweed,400,1600,876
+Crispy Salmon Skin Original Flavor 20g,monori,1.79,125,Unclear,4.2,Yami,Seaweed,400,1600,716
+Red Pepper Tuna 150g,ottogi,3.49,142,Korea,4.6,Yami,Seaweed,400,1600,1396
+Fried Shrimp Cheek Spicy Flavor 25g,monori,1.79,110,Unclear,4.5,Yami,Seaweed,400,1600,716
+Qingjiang Wild Fish Crispy Flavor 110g,tulaohan,4.49,20,Mainland China,4.5,Yami,Seaweed,400,1600,1796
+Z Roll Hot Chili Squid Flavor 72g,tao kae noi,3.49,60,Thailand,4.7,Yami,Seaweed,400,1600,1396
+Spicy Squid 100g,shudaoxiang,2.59,175,Mainland China,4.4,Yami,Seaweed,400,1600,1036
+Koushuiyu Spicy Flavor 260g,koushuiwa,6.49,66,Mainland China,4.3,Yami,Seaweed,400,1600,2596
+Marinated Fish Hot Spicy Flavor 240g,dongdong,5.99,43,Mainland China,4.6,Yami,Seaweed,100,400,599
+LXS Dried Grilled Cod Slice 68g,laoxiansheng,2.39,12,Mainland China,4.9,Yami,Seaweed,400,1600,956
+Hot Chicken Flavor Sausage 83g,samyang,2.39,10,Korea,4.4,Yami,Seaweed,400,1600,956
+Soy Sauce Roasted Sea Eel 65g,chinmi,7.89,28,Japan,4.2,Yami,Seaweed,200,800,1578
+Shredded crab stick 120g,weilong,5.49,46,Unclear,4.5,Yami,Seaweed,400,1600,2196
+Hokkaido Codfish Meat Cheese Kamaboko 4pcs,chiyoda,2.29,34,Japan,4.3,Yami,Seaweed,200,800,458
+Koushuiyu Hot Peeper Flavor 20pcs 260g,koushuiwa,6.49,30,Mainland China,4.5,Yami,Seaweed,400,1600,2596
+Spicy Fish Snack (SOY&CHILI) 80g,zhuayudemao,2.89,30,Unclear,4.7,Yami,Seaweed,400,1600,1156
+TONGRONG Pacific Saury in Miso Sauce,tongyeng,3.09,23,Unclear,4.8,Yami,Seaweed,400,1600,1236
+Abalone with Brown Sauce 5pcs 215g,haikui,19.99,34,Mainland China,4.3,Yami,Seaweed,200,800,3998
+Boss Shrimp Original Flavor 18g,xiangzaibian,4.49,29,Taiwan,4.5,Yami,Seaweed,400,1600,1796
+DONGTING PIER Fish Snack Hot Flavor 20pcs,dongtingmatou,5.89,24,Mainland China,4.6,Yami,Seaweed,200,800,1178
+Fish Strip 90g,bestore,5.89,17,Mainland China,4.6,Yami,Seaweed,400,1600,2356
+TONGRONG Eel In Red Yeast Sauce 100g,tongyeng,2.19,15,Unclear,4.8,Yami,Seaweed,400,1600,876
+Fried Fish Skin - Spicy Flavor 30g,shao nv hao bai,3.19,15,Unclear,4.5,Yami,Seaweed,400,1600,1276
+Prepared Rolled Squid 85g FC-JE-100904,jane jane,5.29,12,Unclear,4.5,Yami,Seaweed,200,800,1058
+Original Seasoned Shredded Squid 170g,haitai,6.89,17,Mainland China,4.4,Yami,Seaweed,200,800,1378
+Dried Boiled Shrimp 170g,shengchanglong,4.49,16,Mainland China,4.9,Yami,Seaweed,400,1600,1796
+TENGXIN Crab Roll Hot Spicy Flavor 360g,haixin,5.99,19,Mainland China,4,Yami,Seaweed,200,800,1198
+Spicy Yellow Croker Fish Can 105g,ljpz,2.49,9,Unclear,4,Yami,Seaweed,400,1600,996
+ENLIEN Grilled Fish Roll 85g,ease taste,2.19,23,Unclear,3,Yami,Seaweed,200,800,438
+Fish Skins Salted Egg Yolk Flavor 50g,dah tien,5.09,10,Unclear,4.1,Yami,Seaweed,400,1600,2036
+Fish Eggs Soy Sauce Flavor 240g,txfood,5.89,14,Mainland China,4.6,Yami,Seaweed,400,1600,2356
+Vegetable Tuna 150g,ottogi,3.49,9,Korea,3.2,Yami,Seaweed,400,1600,1396
+CHIEN JUNG FOOD Stir Fried Pollock Fish Floss 200g,chien jung foods,9.29,2,Unclear,5,Yami,Seaweed,25,100,232
+Dried Fish Chinese Sauerkraut Flavor 50g,happy party,2.49,13,Mainland China,4.1,Yami,Seaweed,200,800,498
+YES SIR Crispy dried Squid-Wasabi 30g,xiaxiansheng,3.99,12,Unclear,3.5,Yami,Seaweed,400,1600,1596
+Home Fish Sausage Original 500g,jinju,3.29,11,Unclear,2.6,Yami,Seaweed,400,1600,1316
+Chapter Fish Balls BBQ Flavor 62g,bestore,4.29,5,Mainland China,3,Yami,Seaweed,200,800,858
+Spicy Fish Snack (SPICY) 80g,zhuayudemao,2.89,42,Mainland China,4.7,Yami,Seaweed,400,1600,1156
+Crispy Fired Hairtail 150g,zhihaile,3.79,6,Unclear,4.8,Yami,Seaweed,400,1600,1516
+YES SIR Crispy dried Squid mouth-Wasabi 25g,xiaxiansheng,3.99,9,Unclear,3.9,Yami,Seaweed,400,1600,1596
+YES SIR Crispy dried Squid-Red braised 20g,xiaxiansheng,3.99,8,Unclear,3.6,Yami,Seaweed,400,1600,1596
+TENGXIN FOODS Shake Crab Crab Sticks Spicy Flavor  20packs 240g,haixin,6.29,6,Mainland China,3,Yami,Seaweed,400,1600,2516
+Squid 230g,yuanyang,19.99,1,Unclear,4,Yami,Seaweed,400,1600,7996
+Crab Chikuwa 45g,marutama,1.69,28,Unclear,4.4,Yami,Seaweed,400,1600,676
+Marinated Fish Hot Miso Flavor 240g,dongdong,5.99,33,Mainland China,4.5,Yami,Seaweed,200,800,1198
+Roasted Squid Snack BBQ flavor 30g,jayone,4.29,3,Korea,2.3,Yami,Seaweed,25,100,107
+Deep-ocean Little Fish Hot & Spicy 48g,jinzai,1.39,13,Unclear,4.6,Yami,Seaweed,400,1600,556
+Roasted Fish Slices 40g,yuanyang,4.99,26,Unclear,4.7,Yami,Seaweed,400,1600,1996
+Fried Dace With Salted Black Bean 227g,yuehua,3.69,41,Mainland China,4.7,Yami,Seaweed,400,1600,1476
+Spicy Fish Snack (zuiyu) 80g,zhuayudemao,2.89,44,Unclear,4.5,Yami,Seaweed,400,1600,1156
+HUAWEN Spiced Fish Snack Tangcu 20pc,hua wen food,6.89,30,Mainland China,4.3,Yami,Seaweed,400,1600,2756
+BRAND Ten Jang Prepared Fish Spicy 42.5g,ladybird,1.69,44,Thailand,4.2,Yami,Seaweed,400,1600,676
+Yesso Scallop 100g,bestore,12.99,35,Mainland China,4.5,Yami,Seaweed,200,800,2598
+Spicy Seasoned Shredded Squid 170g,haitai,6.89,38,Korea,4.4,Yami,Seaweed,200,800,1378
+YES SIR Crispy Dried Crab Spicy Flavor 25g,xiaxiansheng,4.59,36,Taiwan,4.3,Yami,Seaweed,400,1600,1836
+Salted Egg Fish Skin Crunchy Crisps 125g,golden duck,12.99,17,Unclear,4.4,Yami,Seaweed,200,800,2598
+CHIEN JUNG FOOD  Stir Fried Marlin Fish Floss 200g,chien jung foods,9.29,5,Unclear,5,Yami,Seaweed,25,100,232
+Crispy Roasted Canned Eel 100g,hsintungyang,2.59,5,Unclear,4.4,Yami,Seaweed,25,100,65
+LXS Dried Squid Larvae 230g,laoxiansheng,11.59,21,Mainland China,4.4,Yami,Seaweed,400,1600,4636
+LXS Dried Squid Slice 68g,laoxiansheng,2.69,17,Mainland China,4.4,Yami,Seaweed,400,1600,1076
+TAK SHING HONG Dried Scallop Original 113.4g,tsh,18.99,5,Japan,4.4,Yami,Seaweed,400,1600,7596
+Hot Prepared Shredded Squid 85g,jane jane,4.89,11,Unclear,4.1,Yami,Seaweed,200,800,978
+ENLIEN Grilled Cod Crisp 60g,ease taste,2.39,21,Unclear,4.2,Yami,Seaweed,200,800,478
+CHIEN JUNG FOOD Stir Fried Tuna Fish Floss 200g,chien jung foods,9.29,3,Unclear,5,Yami,Seaweed,25,100,232
+Fish Tofu Cake-Crab Flavor 20pcs 400g,yanting fisherman,5.69,17,Mainland China,4,Yami,Seaweed,400,1600,2276
+SHANGHAI Smoked Fish Spicy Flavor 250g,lao du agriculture,9.99,4,Mainland China,4.2,Yami,Seaweed,400,1600,3996
+Canned Bai-Top Shell Hot Flavor 400g,dong won,8.89,14,Korea,3.6,Yami,Seaweed,200,800,1778
+Crab Sticks Cheese Flavor 35g,inaba,2.69,4,Unclear,5,Yami,Seaweed,25,100,67
+Abalone In Oyster Sauce,captain jiang,13.99,0,Unclear,0,Yami,Seaweed,25,100,350
+ENLIEN Charcoal BBQ Fish Sticks 85g,ease taste,2.29,17,Unclear,3.3,Yami,Seaweed,200,800,458
+TENGXIN FOODS Srab Sticker Spicy Flavor 30packs 600g,haixin,5.89,14,Mainland China,4,Yami,Seaweed,200,800,1178
+Rosted Squid Snack Beef Rib Flavor 50g,keumhan,5.99,8,Unclear,4.9,Yami,Seaweed,400,1600,2396
+TENGXIN FOODS Srab Sticker Crab Flavor 600g,haixin,5.89,6,Mainland China,2.8,Yami,Seaweed,400,1600,2356
+Grilled Squid Original Flavor 120g,yanghang,4.49,8,Unclear,4.2,Yami,Seaweed,400,1600,1796
+TAK SHING HONG Dried Scallop Chilli 113.4g,tsh,18.99,4,Japan,3,Yami,Seaweed,400,1600,7596
+QingJiang Wild Fish (Hot Flavor) 110g,tulaohan,4.49,6,Unclear,4.8,Yami,Seaweed,400,1600,1796
+Spicy Shirmp Cake 92g,bestore,5.89,8,Mainland China,2.1,Yami,Seaweed,200,800,1178
+Dried Squid Oshaburi Yakiika 11g,kojima,2.79,2,Unclear,4,Yami,Seaweed,400,1600,1116
+Spicy Hairtail 150g,zhihaile,3.79,2,Unclear,5,Yami,Seaweed,400,1600,1516
+Fish Skins Red Curry Flavor 50g,dah tien,5.09,5,Unclear,5,Yami,Seaweed,400,1600,2036
+fried Salmon fish skin spicy & salted egg 100g,feilong,9.99,4,Unclear,4.2,Yami,Seaweed,400,1600,3996
+FISH Snack Pickled Peeper Flavor 50g,xiangxiangzui,1.89,6,Mainland China,4.8,Yami,Seaweed,400,1600,756
+LINJU Crunch Fish  Original 20g,dalitianjiang,1.39,7,Unclear,3.7,Yami,Seaweed,400,1600,556
+Fish Skin Spicy Flavor 60g,wow,3.79,5,Unclear,4.2,Yami,Seaweed,400,1600,1516
+Spicy Crawfish 76g,bestore,9.99,5,Mainland China,3.2,Yami,Seaweed,25,100,250
+Seasoned Laver Salmon Flavor 18g,krm,1.99,4,Unclear,4,Yami,Seaweed,400,1600,796
+Shredd Jellyfish Spciy Flavor 150g,yida foods,1.59,1,Unclear,4,Yami,Seaweed,400,1600,636
+Seasoned Laver BBQ Flavor 18g,krm,1.99,3,Unclear,5,Yami,Seaweed,400,1600,796
+Sanma Soy Sauce Flavor 150g,ssk sales,3.69,3,Japan,4.3,Yami,Seaweed,400,1600,1476
+Fish Snack Spicy Flavor 50g,xiangxiangzui,1.89,4,Mainland China,3.5,Yami,Seaweed,400,1600,756
+Mr.Searo ???????????? Crispy Fish Slices (20g x 5 packs),mr.searo????????????,5.59,0,Unclear,0,Yami,Seaweed,400,1600,2236
+Spicy Fish Snack (GuiFei) 80g,zhuayudemao,2.89,37,Mainland China,4.5,Yami,Seaweed,400,1600,1156
+Dried Bean Curb Chili Flavor 240g,txfood,5.89,28,Mainland China,4.4,Yami,Seaweed,400,1600,2356
+Roasted & Spicy Seasoned Monkfish 160g,jayone,10.99,23,Unclear,4.6,Yami,Seaweed,400,1600,4396
+Fried Fish Skin - Salty Egg Flavor 30g,shao nv hao bai,3.19,26,Unclear,4.3,Yami,Seaweed,400,1600,1276
+Spicy Roasted Sea Eel 65g,chinmi,7.89,17,Unclear,4,Yami,Seaweed,200,800,1578
+I Feng Squid Series 70g,kou show,2.99,26,Mainland China,3.9,Yami,Seaweed,400,1600,1196
+TAKUMA Dried Crab 45g,other brands,4.99,12,Unclear,3.3,Yami,Seaweed,400,1600,1996
+Dried Fish with Spicy Peanuts 4 Pack*30g,yu gan de yu gan,11.99,2,Unclear,4,Yami,Seaweed,400,1600,4796
+YES SIR Crispy dried Crab-Plum 25g,xiaxiansheng,3.99,21,Unclear,4,Yami,Seaweed,400,1600,1596
+Fish Sausage Mayonnaise Flavor 400g,dalitianjiang,9.89,13,Korea,3.8,Yami,Seaweed,25,100,247
+Crispy Fried Fish Pickled Pepper Flavor 120g,bestore,5.99,3,Mainland China,4.3,Yami,Seaweed,200,800,1198
+HUAWEN Spiced Fish Snack Sour Vegetable Flavor 240g,hua wen food,6.89,12,Mainland China,4.6,Yami,Seaweed,200,800,1378
+Ex Squid Peanut Cracker (Ika Peana)  62g,kasugai,2.29,6,Unclear,5,Yami,Seaweed,25,100,57
+TONGRONG Milkfish In Fish Tomato Sauce 230g,tongyeng,2.69,11,Unclear,4.1,Yami,Seaweed,400,1600,1076
+KING'S Roasted Squid Shreds 8oz,king?€?s,19.99,11,Unclear,4.4,Yami,Seaweed,400,1600,7996
+Seasoned Laver Pollack Roe Flavor 18g,krm,1.99,9,Unclear,4.8,Yami,Seaweed,400,1600,796
+Fried Seasoned Anchovy Sesame Flavor 4.2oz,three deer,5.99,1,Unclear,5,Yami,Seaweed,400,1600,2396
+HONG KONG UNCHI Fish Skin Chips Black Pepper Flavor 110g,hong kong un chi,5.79,9,Unclear,4.3,Yami,Seaweed,25,100,145
+ROFEEL VIKE Little Yellow Croaker Sichuan Spicy 320g,rofeel,5.89,14,Mainland China,4.2,Yami,Seaweed,400,1600,2356
+Fried Dace with Salted Black Beans & Pepper 184g,eagle coin,4.59,2,Unclear,5,Yami,Seaweed,400,1600,1836
+Dried Fish Hot Spicy 50g,happy party,2.19,12,Mainland China,3.9,Yami,Seaweed,200,800,438
+Fish Snack (Sweet & Sour)  20Pcs 260g,yanjinpuzi,5.39,11,Mainland China,3.8,Yami,Seaweed,400,1600,2156
+WANG Canned Saury 396g,wang food,2.99,6,Unclear,5,Yami,Seaweed,400,1600,1196
+Seasoned Laver Original Flavor 12g,krm,1.99,7,Unclear,5,Yami,Seaweed,400,1600,796
+Fish Sausage Jalapeno Chesse Flavor 400g,dalitianjiang,9.89,9,Korea,3.3,Yami,Seaweed,400,1600,3956
+Fried Salmon Fish Skin Salted Egg 100g,feilong,9.99,3,Unclear,5,Yami,Seaweed,400,1600,3996
+Roasted Squid Snack Butter Flavor 30g,jayone,4.39,4,Korea,2.8,Yami,Seaweed,25,100,110
+Cod Fish Stick Hot Spicy Flavor 18*20pcs,haoyudao,6.49,1,Mainland China,3,Yami,Seaweed,400,1600,2596
+PENGUIN Pacific Saury&Kimchi In Can 380g,penguin's,4.59,1,Unclear,4,Yami,Seaweed,400,1600,1836
+PENGUIN Pacific Saury Boiled In Can 400g,penguin's,4.59,0,Unclear,0,Yami,Seaweed,400,1600,1836
+Fried Crispy Shrimps 40g,huajing,2.69,0,Unclear,0,Yami,Seaweed,25,100,67
+CHUNG CHOU CITY Dried Seaweed 50g,chungchou city,2.99,1,Unclear,5,Yami,Seaweed,25,100,75
+[Mainland China Direct Mail] Baicao Flavor-Squid Squid Dried Squid Snacks 80g,be & cheery,12.9,0,Unclear,0,Yami,Seaweed,25,100,323
